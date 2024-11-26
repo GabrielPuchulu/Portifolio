@@ -101,7 +101,7 @@ body {
 
 
 .legiao{
-    width: 500px;
+    width: 350px;
     height: 320px;
     border-radius: 5px;
     margin: 20px auto;
@@ -170,4 +170,14 @@ a{
         margin: 10px auto;
         color: #FAEBD7;
         font-size: 20px;
+}
+
+footer {
+    background: linear-gradient(135deg, #D2B48C, #F5DEB3); 
+    text-align: center;
+    padding: 15px;
+    color: #5C4033; 
+    font-size: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
